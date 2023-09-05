@@ -1,0 +1,45 @@
+#bigg{ background-color:black;width: auto;height: 700px;display:flex; flex-direction:column;align-items: flex-start; background-image: url(netflixback1.jpg);}
+#A{
+    height: 80px;width: 100%; display:flex;justify-content: space-between;
+}
+#one{ height:80px; width:160px; position: relative;left: 5%;}
+
+#B{height:20px; width:50px; height:30px;width:93px; display:flex ;background-color: grey; border:2px solid white; position: absolute; right:15%; top:3%;
+     border-radius: 3px;}
+#C{
+background-color: grey; color: aliceblue; 
+}
+#D{ height:31px;width:60px; position:absolute;right:  10%; top:3%; border-radius: 5px; color:whitesmoke;background-color: red;border-width: 0px;}
+#E{ position: absolute;top:25% ;left:20%;word-wrap: break-word;width:900px}
+::placeholder{color:white}
+
+#G{
+height:501px;width:auto ;background-color:black; 
+display: flex; justify-content: space-around; 
+}
+#H{
+   width:500px; word-wrap:break-word;
+}
+
+.n{ position: relative ;top:25%;left:40%}
+
+#myVideo {
+    position: absolute;right:12%;top:110%;z-index: 0;padding-left: 2px;
+
+  }
+  #I{
+    height:500px;width:auto ;background-color:black; 
+    display: flex; justify-content: space-around; 
+    }
+    .z{top:30%;position: relative;right:30%;word-wrap: break-word;width: 500px;}
+    #myVideo1{position:absolute; height: 30%;width: 30%;top:238%;left:57%}
+    #K{
+        height:900px;width:auto ;background-color:black; display:flex;flex-direction: column; justify-content: center;
+        
+        }
+        .M{height:80px;width: 95%;flex-direction: column; display: flex;font-size: 25px; color:white;background-color: 	rgb(38, 38, 38);position: relative;left: 1px;}
+        ul{list-style-type:none;;}
+    
+  #footer{display: flex;justify-content:space-between; height: 200px;width: 90%; font-size:14px } a{
+    color:gray;
+  }
